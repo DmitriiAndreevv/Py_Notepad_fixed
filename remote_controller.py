@@ -27,7 +27,7 @@ def run():
         if input_from_user == '6':
             func.show('id')
             func.change_or_delete_id('show')
-            
+
         if input_from_user == '7':
             function.bye()
             break
